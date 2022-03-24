@@ -1,0 +1,15 @@
+@import 'style/Rules.scss';
+
+.card {
+  border: 2px solid $white;
+  border-radius: 25px;
+  width: 380px;
+  height: 245px;
+  padding: 50px 20px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.data-container {
+  display: flex;
+}
